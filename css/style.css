@@ -32,5 +32,5 @@ body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
 
 h1{
     font-family: "Montserrat";
-    font-weight: var(--title-weight);
+    font-weight: var(--title-weight)
 }
